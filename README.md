@@ -61,3 +61,13 @@ npm install
 to snag all of the dependencies. 
 
 Of course, you need [node](https://nodejs.org/en/) installed. I also strongly recommend [nodemon](https://www.npmjs.com/package/nodemon) as it makes testing *much* easier.
+
+## Authors
+
+* **Kushal Karmakar** - Independent Creator - [Kushal Karmakar](https://github.com/kushalkarmakar)
+
+## Acknowledgements
+
+* [ShaanCoding](https://github.com/ShaanCoding/)
+* [Beautiful Readme Creation](https://readme.shaankhan.dev/)
+* [ImgShields](https://shields.io/)
