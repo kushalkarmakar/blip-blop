@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/kushalkarmakar/blip-blop">
-    <img src="https://github.com/kushalkarmakar/blip-blop/blob/main/data/images/ICON.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/kushalkarmakar/blip-blop/blob/main/data/images/original.gif?raw=true" alt="Logo" width="60%" height="300">
   </a>
 
   <h3 align="center">Blip Blop BOT</h3>
@@ -23,19 +23,29 @@
 
 ![Downloads](https://img.shields.io/github/downloads/kushalkarmakar/blip-blop/total) ![Contributors](https://img.shields.io/github/contributors/kushalkarmakar/blip-blop?color=dark-green) ![Issues](https://img.shields.io/github/issues/kushalkarmakar/blip-blop) ![License](https://img.shields.io/github/license/kushalkarmakar/blip-blop) 
 
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Licensing](#Licensing)
+* [Features](#Features)
+* [Installation](#installation)
+* [Authors](#Authors)
+* [Acknowledgments](#Acknowledgements)
+
+
 ## About The Project
 
-![Screen Shot](https://github.com/kushalkarmakar/blip-blop/blob/main/data/images/original.gif?raw=true)
+![Screen Shot](https://github.com/kushalkarmakar/blip-blop/blob/main/data/images/ICON.png?raw=true)
 
 Blip Blop is an open source, fully customizable Discord bot that is constantly growing. She comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs. Her codebase also serves as a base framework to easily create Discord bots of all kinds.
 
-## Built With
-
+## Licensing
 Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) license.
 
 * [Visit Github Page](https://github.com/kushalkarmakar/blip-blop/)
 
-## Getting Started
+
+## Features
 
 1.	110+ commands and counting across 8 different categories!
 2.	Administration: A huge amount of settings to customize with commands like setprefix, setwelcomemessage, and setverificationrole
@@ -47,7 +57,7 @@ Released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html) li
 ```And much more! There are over 30+ settings to tweak!```
 
 
-### Installation
+## Installation
 
 
 You can add Blip-Blop to your server or Alternatively, you can clone this repo and host the bot yourself.
